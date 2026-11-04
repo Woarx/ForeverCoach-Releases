@@ -8,6 +8,43 @@
 
 ---
 
+## So sieht er aus
+
+![Coachboard](screenshots/01-coachboard.png)
+*Das Coachboard zeigt Charakter, Sitzung und die wichtigsten Hinweise auf einen Blick.*
+
+<details>
+<summary><b>Weitere Screenshots</b> (zum Aufklappen)</summary>
+
+![Das Overlay blendet Hinweise und Rotation halbtransparent über dem Spiel ein.](screenshots/02-overlay.png)
+*Das Overlay blendet Hinweise und Rotation halbtransparent über dem Spiel ein.*
+
+![Der Guide zeigt Skillung und Rotation passend zur Stufe.](screenshots/03-guide.png)
+*Der Guide zeigt Skillung und Rotation passend zur Stufe.*
+
+![Die Berufe-Route rechnet die Einkaufsliste mit AH- und TSM-Preisen aus.](screenshots/04-berufe.png)
+*Die Berufe-Route rechnet die Einkaufsliste mit AH- und TSM-Preisen aus.*
+
+![Der Gold-Tab zeigt passende Tipps und aktuelle Marktpreise.](screenshots/05-gold.png)
+*Der Gold-Tab zeigt passende Tipps und aktuelle Marktpreise.*
+
+![Im Talentrechner vergleichst du zwei Skillungen per Simulation.](screenshots/06-talente.png)
+*Im Talentrechner vergleichst du zwei Skillungen per Simulation.*
+
+![Top Gear sucht die besten Tausche aus Taschen und Bank.](screenshots/07-topgear.png)
+*Top Gear sucht die besten Tausche aus Taschen und Bank.*
+
+![Die Sitzungsauswertung zeigt deinen Fortschritt mit Verlaufsdiagramm.](screenshots/08-sitzungen.png)
+*Die Sitzungsauswertung zeigt deinen Fortschritt mit Verlaufsdiagramm.*
+
+![Die Gruppenansicht zeigt deinen LAN-Partner mit Fortschritt und Buffs.](screenshots/09-lan.png)
+*Die Gruppenansicht zeigt deinen LAN-Partner mit Fortschritt und Buffs.*
+
+![Der Einrichtungs-Assistent findet deine WoW-Installation automatisch.](screenshots/10-einrichtung.png)
+*Der Einrichtungs-Assistent findet deine WoW-Installation automatisch.*
+
+</details>
+
 ## Was der Forever Coach kann
 
 - **Erkennt jeden Charakter automatisch:** Klasse, Volk, Stufe, Talente, Ausrüstung, Berufe, Taschen, Gold und Gruppe. Ein neuer Charakter wird beim nächsten Login erkannt.
