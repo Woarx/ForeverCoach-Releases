@@ -43,6 +43,24 @@
 ![Der Einrichtungs-Assistent findet deine WoW-Installation automatisch.](screenshots/10-einrichtung.png)
 *Der Einrichtungs-Assistent findet deine WoW-Installation automatisch.*
 
+![Im Dungeon wechselt der Coach automatisch in den Kommandotisch: Boss mit Modell, Mechaniken nach Rolle, Trash-Hinweise und gerankte Beute.](screenshots/11-dungeon.png)
+*Im Dungeon wechselt der Coach automatisch in den Kommandotisch: Boss mit Modell, Mechaniken nach Rolle, Trash-Hinweise und gerankte Beute.*
+
+![Das Kompakt-HUD zeigt dasselbe dicht gepackt für kleinere Bildschirme.](screenshots/12-dungeon-kompakt.png)
+*Das Kompakt-HUD zeigt dasselbe dicht gepackt für kleinere Bildschirme.*
+
+![Die Raid-Ansicht zeigt Boss-Fortschritt, deine Aufgabe, Buff-Abdeckung und die Bedarfsliste der Gruppe.](screenshots/13-raid.png)
+*Die Raid-Ansicht zeigt Boss-Fortschritt, deine Aufgabe, Buff-Abdeckung und die Bedarfsliste der Gruppe.*
+
+![Im Overlay erscheint im Dungeon eine Boss-Karte mit den wichtigsten Mechaniken und Top-Upgrades.](screenshots/14-overlay-dungeon.png)
+*Im Overlay erscheint im Dungeon eine Boss-Karte mit den wichtigsten Mechaniken und Top-Upgrades.*
+
+![Der Gilden-Tab zeigt live, wer online ist, mit Stufenverteilung und optionalem Gildenchat.](screenshots/15-gilde.png)
+*Der Gilden-Tab zeigt live, wer online ist, mit Stufenverteilung und optionalem Gildenchat.*
+
+![Bank-Twinks werden zur Gildenbank mit Gesamtwert und Suche.](screenshots/16-gildenbank.png)
+*Bank-Twinks werden zur Gildenbank mit Gesamtwert und Suche.*
+
 </details>
 
 ## Was der Forever Coach kann
@@ -57,6 +75,9 @@
   - **Ausrüstung:** veraltete Teile, dazu **Top Gear**: findet die beste Kombination aus deinen Taschen und deiner Bank per Simulation
   - **Sitzungen:** Auswertung jeder Spielsitzung mit EP/h, Gold/h, Materialwert, Verlauf und Bestwerten
 - **Overlay**, halbtransparent über WoW: Stufe, die wichtigsten Hinweise und die Rotation. Per Hotkey schaltest du es durchklickbar. Es funktioniert im **randlosen Fenstermodus**, nicht im exklusiven Vollbild.
+- **Dungeon- und Raid-Companion:** Beim Betreten einer Instanz wechselt die Ansicht automatisch (über das Kampflog). Du siehst den aktuellen bzw. nächsten Boss mit Modell, Mechaniken nach Rolle (Tank, Heiler, DPS), welche Trash-Gegner zuerst sterben müssen und die **Beute gerankt nach Upgrades für dich**. Nach dem Lauf rechnet eine Simulation deine neue Beute durch, und eine Übersicht zeigt, wer was bekommen hat.
+- **Gilde:** Mitgliederliste mit Live-Status (wer gerade online ist), Filtern und Stufenverteilung, optional der Gildenchat. Bank-Twinks lassen sich als Gildenbank markieren.
+- **LAN-Partner:** Mit einem Mitspieler im selben Netzwerk seht ihr euch gegenseitig: Fortschritt, Buffs und wer welches Item braucht. Die Verbindung ist verschlüsselt.
 - **Preise** aus **Auctionator** und **TradeSkillMaster**. Die TSM-Desktop-App aktualisiert sie auch ohne laufendes Spiel.
 - **RestedXP:** Der Coach erkennt deinen aktuellen Guide-Schritt und plant seine Hinweise passend zur Route. Er zeigt weder Quests noch Laufwege, das macht RestedXP selbst.
 - **Deutsch und Englisch.**
