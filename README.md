@@ -68,24 +68,11 @@ Forever Coach sucht beim Start und alle 6 Stunden nach neuen Versionen. Ist eine
 
 Du kannst beides in den Einstellungen ändern (Zahnrad oben rechts). Dort stellst du auch den Startmodus ein: Coachboard und Overlay, nur Coachboard oder nur Overlay. Bei „nur Overlay“ lebt die App im Infobereich der Taskleiste.
 
-## Datenschutz
-
-- Forever Coach läuft **komplett lokal** auf deinem PC. Es gibt kein Konto, keinen Login und keine Telemetrie.
-- Gelesen werden nur die Dateien deiner Add-ons im WoW-Ordner: ForeverCoach, Auctionator, TradeSkillMaster und den Fortschritt von RestedXP.
-- Verbindungen ins Internet gibt es nur für Guides von **Wowhead** und **GoldGoblin**, Icons von Wowhead und die Update-Prüfung hier auf GitHub. Abgerufen wird zurückhaltend und mit Cache.
-- Von RestedXP liest der Coach nur, **wo** du im Guide stehst. Guide-Inhalte werden nicht ausgelesen oder weitergegeben.
-
 ## Probleme?
 
 - **Charakter erscheint nicht:** Ist das Add-on in der Add-on-Liste aktiviert? Klicke einmal auf den Minimap-Knopf oder gib `/reload` ein. Im Spiel zeigt `/fc` den Status des Add-ons.
 - **Overlay ist nicht zu sehen:** WoW muss im **randlosen Fenstermodus** laufen.
 - **Add-on gilt als „veraltet“:** In der Add-on-Liste „Veraltete Add-ons laden“ anhaken und ein Update des Forever Coach abwarten.
-
-## Danksagung und Hinweise
-
-- Simulation: [**WoWSims Forever**](https://github.com/wowsims/forever) (MIT-Lizenz)
-- Guides: [**Wowhead**](https://www.wowhead.com/forever) und [**GoldGoblin**](https://classic.goldgoblin.net). Inhalte und Links gehören den jeweiligen Seiten.
-- World of Warcraft und Blizzard Entertainment sind Marken oder eingetragene Marken von Blizzard Entertainment, Inc. Forever Coach ist ein privates Fan-Projekt und steht in keiner Verbindung zu Blizzard Entertainment, Wowhead, GoldGoblin, RestedXP oder TradeSkillMaster.
 
 ---
 
