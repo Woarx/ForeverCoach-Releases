@@ -61,6 +61,12 @@
 ![Bank-Twinks werden zur Gildenbank mit Gesamtwert und Suche.](screenshots/16-gildenbank.png)
 *Bank-Twinks werden zur Gildenbank mit Gesamtwert und Suche.*
 
+![Im Guide-Tab steht oben die Rotation mit nur den Zaubern, die du schon kennst, darunter der Guide im Wowhead-Look.](screenshots/17-guide.png)
+*Im Guide-Tab steht oben die Rotation mit nur den Zaubern, die du schon kennst, darunter der Guide im Wowhead-Look.*
+
+![In den Einstellungen wählst du, ob und womit der Guide auf Deutsch übersetzt wird: DeepL, Microsoft oder Google, auch mehrere zugleich.](screenshots/18-uebersetzung.png)
+*In den Einstellungen wählst du, ob und womit der Guide auf Deutsch übersetzt wird: DeepL, Microsoft oder Google, auch mehrere zugleich.*
+
 </details>
 
 ## Was der Forever Coach kann
@@ -68,7 +74,8 @@
 - **Erkennt jeden Charakter automatisch:** Klasse, Volk, Stufe, Talente, Ausrüstung, Berufe, Taschen, Gold und Gruppe. Ein neuer Charakter wird beim nächsten Login erkannt.
 - **Coachboard für den zweiten Monitor** im WoW-Stil, mit echten Spiel-Icons:
   - **Hinweise**, sortiert nach „Jetzt / Bald / Info“: freie Talentpunkte mit dem nächsten Talent laut Guide, Lehrerbesuche, nächster Berufsrang, fehlende Materialien mit Auktionshauspreis, volle Taschen, Dungeons in deinem Stufenbereich, Synergien mit deiner Gruppe und Gold-Tipps
-  - **Guide:** Skillung Punkt für Punkt, Rotation als Prioritätenliste (Quelle: Wowhead)
+  - **Guide:** Rotationsleiste mit allen Rotationen des Guides (Einzelziel, AoE usw.), die nur Zauber zeigt, die du schon gelernt hast. Darunter der komplette Guide im Wowhead-Look mit Inhaltsverzeichnis, umschaltbaren Reitern, Rotations-Abläufen und Talent-Builds, die du direkt in den Talentrechner übernimmst (Quelle: Wowhead)
+  - **Guide auf Deutsch (optional):** Mit eigenem kostenlosem Schlüssel von DeepL, Microsoft oder Google wird der englische Guide übersetzt. Übersetzungen werden gespeichert und kosten kein zweites Mal Zeichen
   - **Berufe:** Skillroute Schritt für Schritt mit Einkaufsliste und Preisen (Quelle: GoldGoblin)
   - **Gold:** Gold-Tipps für Forever passend zu deinen Berufen
   - **Talente:** Talentbaum-Rechner, mit dem du zwei Skillungen per Simulation vergleichst
